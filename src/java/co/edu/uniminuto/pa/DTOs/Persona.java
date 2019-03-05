@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package co.edu.uniminuto.pa.DTOs;
-
+//prueba commit 2
 /**
  *
  * @author nixoduaa
